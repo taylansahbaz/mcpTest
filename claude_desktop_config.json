@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "device-data": {
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-NonInteractive",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "C:\\Users\\TaylanŞAHBAZ\\source\\repos\\device-data-mcp\\run_server.ps1"
+      ]
+    }
+  }
+}
